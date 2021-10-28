@@ -1,0 +1,47 @@
+{
+    "name": "Ash",
+    "pokemons": [
+        {
+            "pokemonname": "Pikachu",
+            "level": 10
+        },
+        {
+            "pokemonname": "Charmander",
+            "level": 5
+        },
+        {
+            "pokemonname": "Arbok",
+            "level": 8
+        },
+        {
+            "pokemonname": "Psyduck",
+            "level": 4
+        },
+        {
+            "pokemonname": "Snorlax",
+            "level": 9
+        }
+    ],
+    "itens": [
+        {
+            "name": "Pokebola",
+            "quantity": 50
+        },
+        {
+            "name": "Passe de batalha",
+            "quantity": 3
+        },
+        {
+            "name": "Poçoes",
+            "quantity": 20
+        },
+        {
+            "name": "Frutas",
+            "quantity": 30
+        },
+        {
+            "name": "Incubadora pokemon",
+            "quantity": 30
+        }
+    ]
+}
